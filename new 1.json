@@ -2,7 +2,8 @@
   "sightseeing": "Sehenswürdigkeiten App", 
     "brandenburgerTor": [
       {
-		"name": "Brandenburger Tor",
+	"id": 1,
+	"name": "Brandenburger Tor",
         "lat": "52.5163881",
         "lon": "13.3783296",
         "historyDE": [
