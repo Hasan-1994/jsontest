@@ -1,0 +1,36 @@
+{
+  "brandenburgerTor": [
+		"name": "Brandenburger Tor",
+        "lat": "52.5163881",
+        "lon": "13.3783296",
+                "historyDE": [
+          {
+            "Das Brandenburger Tor in Berlin ist ein frühklassizistisches Triumphtor",
+            "das an der Westflanke des quadratischen Pariser Platzes im Berliner Ortsteil Mitte steht. Es wurde als Abschluss der zentralen Prachtstraße der Dorotheenstadt",
+            "des Boulevards Unter den Linden",
+          }
+        ],
+        "historyEN": [
+          {
+            "The Brandenburg Gate"
+          }
+        ],
+        "image": [
+          {
+            "image1": "https://en.wikipedia.org/wiki/Brandenburg_Gate#/media/File:Berlin_Brandenburger_Tor_Abend.jpg",
+            "image2": "https://de.wikipedia.org/wiki/Brandenburger_Tor#/media/Datei:Berlin_Brandenburger_Tor_BW_2.jpg"
+          }
+        ]
+      }
+    ],
+  ],
+  "boolean": true,
+  "color": "gold",
+  "null": null,
+  "number": 123,
+  "object": {
+    "a": "b",
+    "c": "d"
+  },
+  "string": "Hello World"
+}
