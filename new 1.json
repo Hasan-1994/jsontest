@@ -1,8 +1,8 @@
 {
-  "sightseeing": {
+  "sightseeing": "Sehenswürdigkeiten App", 
     "brandenburgerTor": [
       {
-        "name": "Brandenburger Tor",
+		"name": "Brandenburger Tor",
         "lat": "52.5163881",
         "lon": "13.3783296",
         "historyDE": [
@@ -10,24 +10,11 @@
             "Das Brandenburger Tor in Berlin ist ein frühklassizistisches Triumphtor",
             "das an der Westflanke des quadratischen Pariser Platzes im Berliner Ortsteil Mitte steht. Es wurde als Abschluss der zentralen Prachtstraße der Dorotheenstadt",
             "des Boulevards Unter den Linden",
-            "in den Jahren von 1789[1] bis 1793[2] auf Anweisung des preußischen Königs Friedrich Wilhelm II. nach Entwürfen von Carl Gotthard Langhans errichtet. Die das Tor krönende Skulptur der Quadriga ist ein Werk nach dem Entwurf des Bildhauers Johann Gottfried Schadow. Westlich des Brandenburger Tores befinden sich die ausgedehnten Grünflächen des Großen Tiergartens",
-            "die in gradliniger Verlängerung der Straße Unter den Linden von der Straße des 17. Juni durchquert werden. Die Platzfläche unmittelbar westlich des Tores trägt den Namen Platz des 18. März.Das Tor ist das einzig erhaltene von zuletzt 18 Berliner Stadttoren.[3] In der Formensprache stellt es die Hinwendung vom römischen zum griechischen Vorbild dar.[3] Es ist eines der ersten klassizistischen Bauwerke in Preußen und markiert hiermit den Beginn des Klassizismus als staatstragende Architektur in Preußen.Das Tor ist das bekannteste Berliner Wahrzeichen und ein deutsches Nationalsymbol",
-            "mit dem viele wichtige geschichtliche Ereignisse des 19. und 20. Jahrhunderts verbunden sind. So wurde bis zum Zweiten Weltkrieg vor allem das Ende der napoleonischen Herrschaft 1813–1815 mit dem Bauwerk verbunden. In der Weimarer Republik wurde hier alljährlich am 11. August der Verfassungstag begangen. Bis zum Öffnung des Eisernen Vorhangs stand es unmittelbar an der Grenze zwischen Ost- und West-Berlin und symbolisierte so während des Kalten Krieges das Aufeinandertreffen von Warschauer Pakt und NATO an der weltpolitisch heikelsten Stelle ihres gemeinsamen Grenzverlaufes. Entsprechend wird das Brandenburger Tor seit 1990 auch als Symbol der Überwindung der Teilung Deutschlands und Europas angesehen.Nach starker Kriegsbeschädigung wurde das Tor bis 1958 wiederhergestellt. Eine umfassende",
-            "knapp zweijährige Sanierung fand bis 2002 durch die Stiftung Denkmalschutz Berlin statt."
           ]
         ],
         "historyEN": [
           [
-            "The Brandenburg Gate (German: Brandenburger Tor; [ˈbʁandn̩bʊɐ̯gɐ ˈtoːɐ̯]) is an 18th-century neoclassical monument in Berlin",
-            "built on the orders of Prussian king Frederick William II after the temporary restoration of order during the Batavian Revolution.[1] One of the best-known landmarks of Germany",
-            "it was built on the site of a former city gate that marked the start of the road from Berlin to the town of Brandenburg an der Havel",
-            "which used to be capital of the Margraviate of Brandenburg.It is located in the western part of the city centre of Berlin within Mitte",
-            "at the junction of Unter den Linden and Ebertstraße",
-            "immediately west of the Pariser Platz. One block to the north stands the Reichstag building",
-            "which houses the German parliament (Bundestag). The gate is the monumental entry to Unter den Linden",
-            "a boulevard of linden trees which led directly to the royal City Palace of the Prussian monarchs.Throughout its existence",
-            "the Brandenburg Gate was often a site for major historical events and is today considered not only as a symbol of the tumultuous history of Europe and Germany",
-            "but also of European unity and peace."
+            "The Brandenburg Gate"
           ]
         ],
         "image": [
@@ -46,29 +33,11 @@
         "historyDE": [
           [
             "Der Alexanderplatz ist ein Platz am nordöstlichen Rand der historischen Mitte von Berlin. Der rechteckige Platz im Ortsteil Mitte geht auf den Platz vor dem Königs Thor zurück und erhielt 1805 nach dem russischen Zaren Alexander I. seinen heutigen Namen. Im Berliner Volksmund wird er meist nur „Alex“ ['alɛks] genannt.Der mehrfach umgestaltete Platz sowie ein Großteil der umliegenden Bebauung erlitten im Zweiten Weltkrieg durch alliierte Luftangriffe erhebliche Zerstörungen. Die Ost-Berliner Verwaltung ließ in den 1960er Jahren das Areal des Platzes im Zentrum der DDR-Hauptstadt mit Ausnahme des Alexander- und Berolinahauses total umgestalten. Aus einem zuvor sehr belebten Kreisverkehrsplatz wurde eine Fußgängerzone",
-            "die eine Fläche rund acht Hektar einnimmt. Auf dieser vierfach größeren Fläche entstanden bis 1970 u. a. das Interhotel Stadt Berlin und das HO-Centrum-Warenhaus",
-            "die heute als Park Inn und Galeria Kaufhof weiter bestehen.Nach dem Mauerfall erfolgten weitere Umgestaltungen; mit täglich mehr als 360.000 Passanten[1] war der Alexanderplatz 2009 der viertbelebteste Platz in Europa[1] und ist laut einer Studie die meistbesuchte Gegend Berlins noch vor der City West um Kurfürstendamm und Tauentzienstraße.[2] Er ist ein beliebter Ausgangspunkt für Touristen",
-            "die von den beiden gleichnamigen Bahnhöfen der S-Bahn (Stadtbahn) und U-Bahn aus viele Sehenswürdigkeiten wie den Fernsehturm",
-            "das Nikolaiviertel sowie das Rote Rathaus erreichen können. Mit den Einkaufszentren Alexa und die mitte",
-            "den Rathauspassagen sowie der Galeria Kaufhof gibt es zudem mehrere große Einzelhandelsstandorte.Fälschlicherweise wird oft auch der südwestlich hinter dem S-Bahnhof liegende Park am Fernsehturm mit Neptunbrunnen",
-            "Marienkirche und Rotem Rathaus dem Alexanderplatz zugeordnet. Diese weiträumige Freifläche im zentralen Bereich der ehemaligen Berliner Altstadt",
-            "das frühere Marienviertel",
-            "gehört jedoch wie das Marx-Engels-Forum zwischen Spandauer Straße und der Spree nicht zum Platz."
           ]
         ],
         "historyEN": [
           [
             "Alexanderplatz (German: [ʔalɛkˈsandɐˌplats] (About this soundlisten)) is a large public square and transport hub in the central Mitte district of Berlin. The square is named after the Russian Tsar Alexander I and is often referred to simply as Alex",
-            "which also denotes the larger neighbourhood stretching from Mollstraße in the northeast to Spandauer Straße and the Rotes Rathaus in the southwest.With more than 360",
-            "000 visitors daily",
-            "[1] Alexanderplatz is",
-            "according to one study",
-            "the most visited area of Berlin",
-            "beating Friedrichstrasse and City West.[2] It is a popular starting point for tourists",
-            "with many attractions including the Fernsehturm (TV tower)",
-            "the Nikolai Quarter and the Rotes Rathaus (Red city hall) situated nearby. Alexanderplatz is still one of Berlin's major commercial areas",
-            "housing various shopping malls",
-            "department stores and other large retail locations."
           ]
         ],
         "image": [
@@ -79,5 +48,5 @@
         ]
       }
     ]
-  }
+  
 }
