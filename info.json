@@ -1,0 +1,41 @@
+{
+  "title": "BTour",
+  "description": "Your app fetched this from a remote endpoint!",
+  "attractions": [
+    {
+      "id": 1,
+      "title": "Alexanderplatz",
+      "images": "https://i.ibb.co/w7DXFRz/Alexanderplatz-in-Berlin-Panorama.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Brandenburger Tor",
+      "images": "https://i.ibb.co/m9DfRLG/Brandenburg-Gate-Berlin-Germany-panorama.jpg"
+    },
+    {
+      "id": 3,
+      "title": "East Side Galary",
+      "images": "https://i.ibb.co/sPc7zWd/deutschland-berlin-der-bruderkuss-zwischen-leonid-breschnew-und-erich-honecker-gehocc88rt-zu-den-ber.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Kurfüstendamm - Kudamm",
+      "images": "https://i.ibb.co/bQH1F0g/kudammberlin-620.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Museumsinsel",
+      "images": "https://i.ibb.co/NVhCLV3/15791463-401.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Potsdamer Platz",
+      "images": "https://i.ibb.co/W5WstZh/Potsdamer-Platz-2.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Reichstag",
+      "images": "https://i.ibb.co/1M700Vy/1200px-Reichstag-building-Berlin-view-from-west-before-sunset.jpg"
+    }
+  ]
+}
