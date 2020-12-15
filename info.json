@@ -1,0 +1,34 @@
+{
+  "title": "BTour",
+  "description": "Your app fetched this from a remote endpoint!",
+  "attractions": [
+    {
+      "id": 1,
+      "title": "Alexanderplatz"
+    },
+    {
+      "id": 2,
+      "title": "Brandenburger Tor"
+    },
+    {
+      "id": 3,
+      "title": "East Side Galary"
+    },
+    {
+      "id": 4,
+      "title": "Kurfüstendamm - Kudam"
+    },
+    {
+      "id": 5,
+      "title": "Museumsinsel"
+    },
+    {
+      "id": 6,
+      "title": "Potsdamer Platz"
+    },
+    {
+      "id": 7,
+      "title": "Reichstag"
+    }
+  ]
+}
