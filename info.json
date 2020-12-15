@@ -1,0 +1,35 @@
+{
+    "title": "BTour",
+    "discription": "Das ist die Auswahlseite",
+    "sehenswuerdigkeiten": [
+        {
+            "id": 1,
+            "name": "Alexanderplatz",
+            "imgae":
+        },
+        {
+            "id": 2,
+            "name": "Brandenburger Tor"
+        },
+        {
+            "id": 3,
+            "name": "East Side Galary"
+        },
+        {
+            "id": 4,
+            "name": "Kurfüstendamm - Kudam"
+        },
+        {
+            "id": 5,
+            "name": "Museumsinsel"
+        },
+        {
+            "id": 6,
+            "name": "Potsdamer Platz"
+        },
+        {
+            "id": 7,
+            "name": "Reichstag"
+        }
+    ]
+}
