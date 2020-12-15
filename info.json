@@ -1,7 +1,5 @@
-{
-    "title": "BTour",
-    "discription": "Das ist die Auswahlseite",
-    "sehenswuerdigkeiten": [
+
+    [
         {
             "id": 1,
             "name": "Alexanderplatz",
@@ -32,4 +30,3 @@
             "name": "Reichstag"
         }
     ]
-}
