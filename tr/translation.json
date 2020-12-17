@@ -2,14 +2,14 @@
     "Alexanderplatz": {
         "id": 1,
         "name": "Alexanderplatz",
-        "discription": "Der Alexanderplatz befindet sich im Stadtteil Mitte und ist der einer der bekanntesten und auch größten Plätze Berlins. Benannt wurde er nach dem, ehemaligen Kaiser Russlands, Alexander I. Der Alexanderplatz ist das östliche Zentrum Berlins und somit ein sehr wichtiger Verkehsknotenpunkt. Mitten auf dem Alexanderplatz befindet sich deutschlands Größter Turm. Der Fernsehturm, welches eine größe von 368 Metern hat ist zugleich auch das größte öffentlich zugängliche Gebäude Europas ist. Innerhalb des Turmes hat man ein spektakulären 360° Blick, welches Berlin zu füßen legt.",
+        "discription": "HASAN IST DER BESTE",
         "latitude": 52.5219846,
         "longitude": 13.4111173
     },
     "BrandenburgerTor":{
         "id": 2,
         "name": "Brandenburger Tor",
-        "discription": "Das Brandenburger Tor wurde zwischen den Jahren 1788 und 1791 erbaut und diente vorerst zur ersetzung der Zollmauer. Das Tor besteht aus zwölf dorischen Säulen, sechs auf jeder Seite. Die Säulen bilden zusammen fünf Durchgängen. Oben auf dem Tor sieht man heute Victoria, die römischen Göttin des Sieges. Sie steht in einem Wagen, der von vier Pferden gezogen wird, die Quadriga. In der heutigen Zeit, ist das Brandenburger Tor ist zusammen mit der Straße des 17. Juni ein Sammelpunkte in Berlin. Hier finden mehr als eine Million Menschen Platz. Regelmäßig finden Bühnenshows, Partys, und Feuerwerke statt. ",
+        "discription": "SIKERLEEEEER",
         "latitude": 52.516275,
         "longitude": 13.377704
     },
@@ -22,7 +22,7 @@
     },
     "Kudam":{
         "id": 4,
-        "name": "Kurfüstendamm - Kudamm",
+        "name": "Kurfüstendamm - Kudam",
         "discription": "Der Kurfürstendamm wurde um 1542 als Dammweg vom Berliner Stadtschloss zum Jagdschloss Grunewald angelegt und diente zunächst als Reitweg für den Kurfürsten Joachim II. Im Zweiten Weltkrieg wurden erhebliche Teile der Bebauung durchLuftangriffe zerstört. Der Wiederaufbau erfolgte mit dem Ziel, den Kurfürstendamm in der Zeit des Kalten Krieges zum Schaufenster des Westens und Symbol für das Wirtschaftswunder auszubauen.  Nach der Teilung der Stadt entwickelte sich nach der Währungsreform 1948 hier das Geschäftszentrum West-Berlins, die City West, insbesondere am Ostende in Richtung des Bahnhofs Zoo.  Der umgangssprachliche Begriff Ku’damm wurde zum Inbegriff. ",
         "latitude": 52.5044145,
         "longitude": 13.3351804
@@ -55,14 +55,14 @@
         "HAM_ICON": "https://i.ibb.co/fvr8J92/Unbenannt-1.png"
     },
     "BUTTONS":{
-        "ALERT_NOTAVABLIE": "Diese Option ist derzeit nicht verfügbar",
+        "ALERT_NOTAVABLIE": "Bu seçenek şu anda kullanılamıyor",
         "GERMAN": "Almanca",
-        "ENGLISH": "Ingilizce",
-        "TURKISH": "türkce",
-        "SPANISH": "ispanyolca"
+        "ENGLISH": "Inglizce",
+        "TURKISH": "Türkçe",
+        "SPANISH": "İspanyolca"
     },
     "ViewText":{
-        "Navigate": "Navigiere nach  "
+        "Navigate": "Haritada göster  "
     }
 
 }
