@@ -62,7 +62,8 @@
         "SPANISH": "İspanyolca"
     },
     "ViewText":{
-        "Navigate": "Haritada göster  "
+        "Navigate": "Haritada göster  ",
+        "LANGUAGECHOOSER": "Lütfen bir Dil seciniz!"
     }
 
 }

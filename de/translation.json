@@ -62,7 +62,8 @@
         "SPANISH": "Spanisch"
     },
     "ViewText":{
-        "Navigate": "Navigiere nach  "
+        "Navigate": "Navigiere nach  ",
+        "LANGUAGECHOOSER": "Bitte wähle eine Sprache aus!"
     }
 
 }
