@@ -62,6 +62,8 @@
     },
     "ViewText":{
         "Navigate": "Navigate to  ",
-        "LANGUAGECHOOSER": "Please select a language!"
+        "ChangeLng": "Language",
+        "ChooseLng": "Please select a language!",
+        "AboutApp": "WHY THIS APP"
     }
 }

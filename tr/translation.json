@@ -63,7 +63,9 @@
     },
     "ViewText":{
         "Navigate": "Haritada göster  ",
-        "LANGUAGECHOOSER": "Lütfen bir Dil seciniz!"
+        "ChangeLng": "Dil",
+        "ChooseLng": "Lütfen bir Dil seciniz!",
+        "AboutApp": "BU UYGULAMA NEDEN GELISTIRILDI"
     }
 
 }

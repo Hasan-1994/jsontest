@@ -63,7 +63,9 @@
     },
     "ViewText":{
         "Navigate": "Navigiere nach  ",
-        "LANGUAGECHOOSER": "Bitte wähle eine Sprache aus!"
+        "ChangeLng": "Sprache",
+        "ChooseLng": "Bitte wähle eine Sprache aus!",
+        "AboutApp": "HIER REIN WARUM ENTWICKELT WURDE"
     }
 
 }
