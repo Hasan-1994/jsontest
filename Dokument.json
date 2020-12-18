@@ -1,0 +1,70 @@
+{
+    "Alexanderplatz": {
+        "id": 1,
+        "name": "Alexanderplatz",
+        "discription": "Alexanderplatz, Mitte bölgesinde yer al?r ve Berlin'in en ünlü ve en büyük meydanlar?ndan biridir. Ad?n? Rusya'n?n eski imparatoru I. ?skender'den alm??t?r. Alexanderplatz Berlin'in do?u merkezi ve bu nedenle çok önemli bir verkehs merkezidir. Alexanderplatz'?n ortas?nda Almanya'n?n en büyük kulesi bulunmaktad?r. 368 metre büyüklü?e sahip OLAN TV kulesi ayn? zamanda Avrupa'n?n en büyük kamu binas?d?r. Kulenin içinde, Berlin'in ayaklar?n?n dibinde yer ald??? muhte?em 360° bir manzaraya sahipsiniz."
+        "latitude": 52.5219846,
+        "longitude": 13.4111173
+    },
+    "BrandenburgerTor":{
+        "id": 2,
+        "name": "Brandenburg Kap?s?",
+        "discription": "Brandenburg Kap?s? 1788 ve 1791 y?llar? aras?nda in?a edilmi? ve gümrük duvar?n?n yerine ?imdilik kullan?lm??t?r. Geçit on iki Dorik sütun, her iki tarafta alt? olu?ur. Sütunlar birlikte be? pasaj olu?turur. Kap?n?n tepesinde Roma zafer tanr?ças? Victoria'y? görebilirsiniz. Dört at taraf?ndan çekilen bir arabada duruyor, Quadriga. Bu ça?da, Brandenburg Kap?s?, 17 Haziran sokak ile birlikte, Berlin'de bir toplama noktas?d?r. Bir milyondan fazla insan? bar?nd?rabilir. Sahne gösterileri, partiler ve havai fi?ekler düzenli olarak düzenlenmektedir.",
+        "latitude": 52.516275,
+        "longitude": 13.377704
+    },
+    "EastSideGalary":{
+        "id": 3,
+        "name": "East Side Galary",
+        "discription": "Ostbahnhof ve Oberbaumbrücke aras?nda Berlin Duvar?'n?n en uzun kalan bölümü Do?u Yakas? Galerisi olarak dünyaca ünlü hale gelmi?tir. Berlin Duvar?'n?n y?k?lmas?ndan sonra, 21 ülkeden 118 sanatç? eski s?n?r unsurunun 1,3 kilometresinde dünyan?n en uzun aç?k hava galerisini tasarlad?. Alman tümeninin üstesinden gelmenin ve ayn? zamanda insanl?k d??? DDR s?n?r rejiminin tarihi bir ifadesi olarak sevinç sembolü olan East Side Gallery, bugün Berlin'in en çok ziyaret edilen turistik yerlerinden biridir. Berlin Duvar?'n?n y?k?lmas?ndan sonra, 21 ülkeden 118 sanatç? eski s?n?r unsurunun 1,3 kilometresinde dünyan?n en uzun aç?k hava galerisini tasarlad?. Alman tümeninin üstesinden gelmenin ve ayn? zamanda insanl?k d??? DDR s?n?r rejiminin tarihi bir ifadesi olarak sevinç sembolü olan East Side Gallery, bugün Berlin'in en çok ziyaret edilen turistik tatil beldelerinden biridir.",
+        "latitude": 52.5090062,
+        "longitude": 13.4324769
+    },
+    "Kudam":{
+        "id": 4,
+        "name": "Kurfüstendamm - Kudamm",
+        "discription": "Kurfürstendamm 1542 y?l?nda Berlin ?ehir Saray?'ndan Grunewald av kö?küne bir baraj yolu olarak in?a edilmi? ve ba?lang?çta Elector Joachim II için bir binicilik yolu olarak hizmet vermi?tir. II. Dünya Sava?? s?ras?nda binan?n önemli bir k?sm? hava sald?r?lar? yla tahrip edildi. Yeniden yap?lanma, So?uk Sava? s?ras?nda Kurfürstendamm'? Bat? için bir vitrine ve ekonomik mucizenin sembolü haline getirerek gerçekle?tirdi. ?ehrin bölünmesinden sonra, 1948 y?l?nda para reformu sonra, Bat? Berlin i? merkezi, City West, burada, özellikle do?u ucunda Hayvanat Bahçesi istasyonu yönünde geli?ti. Ku'damm terimi özet oldu.",
+        "latitude": 52.5044145,
+        "longitude": 13.3351804
+    },
+    "Museumsinsel":{
+        "id": 5,
+        "name": "Museumsinsel",
+        "discription": "Spree ve Kupfergraben aras?nda, binalar? arkeolojik koleksiyonlar? ve 19. Çok say?da binay? derleyen toplulu?un ba?lang?ç noktas?, Schinkel'in planlar?na göre in?a edilen Eski Müze'nin 1830 y?l?nda tamamlanmas?d?r. 1999 y?l?nda müze adas?n?n bina toplulu?u UNESCO taraf?ndan Dünya Miras? Ilan edildi. Pergamon Müzesi, eski müze, yeni müze, eski Ulusal Galeri ve Bode Müzesi: Müze Adas?, çe?itli Berlin müzelerinin önemli koleksiyonlar?n?n bir araya getirildi?i Prusya Kültür Miras? Vakf?'n?n be? müze binas?ndan olu?maktad?r.",
+        "latitude": 52.515717,
+        "longitude": 13.3970524
+    },
+    "PotsdamerPlatz":{
+        "id": 6,
+        "name": "Potsdamer Platz",
+        "discription": "Her ?ey, Berlin'in 14 ?ehir kap?s?ndan biri olan Potsdamer Tor'un önünde be? kollu bir yol kav?a?? olan Potsdamer Tor'un önündeki 'Platz' ile ba?lad?. 1838 y?l?nda, Potsdam Fernbahnhof burada aç?ld?. Birkaç on y?l içinde, meydan bir metropol al??veri? merkezi ve hatta Avrupa'n?n en i?lek meydanlar?ndan biri haline geldi. 1838 y?l?nda, Potsdam Fernbahnhof burada aç?ld?. Birkaç on y?l içinde, meydan büyük ölçekli bir mal i?leme merkezi haline geldi ve hatta ?kinci Dünya Sava??'Europas.Im en i?lek meydanlardan biri, Potsdamer Platz neredeyse tamamen tahrip edildi. Sadece Huth ?arap Evi ve Hotel Esplanade harabeleri 1945 y?l?nda daha önce çok canl? bir meydanda yer alm??t?r.  Sava??n bitiminden sonra, Potsdamer Platz ilk olarak Sovyet, ?ngiliz ve Amerikan sektörleri aras?nda "üç s?n?r üçgeni" haline geldi ve geli?en bir karaborsa olarak kabul edildi. Ancak 9 Kas?m 1989'da Berlin Duvar?'n?n y?k?lmas?yla birlikte site aniden tekrar ilgi oda?? oldu. Neredeyse bir gecede, on y?llard?r bo? duran yerde tamamen yeni bir durum ortaya ç?kt?. Potsdamer Platz her gün Berlin, Almanya ve yurtd???ndan 110.000 ziyaretçi çekiyor: konforlu ofisler, geni? ye?il alanlar, birinci s?n?f e?lencenin yan? s?ra çok çe?itli gastronomi ve al??veri? olanaklar?yla çok yönlü teklifin keyfini ç?karabilirsiniz..",
+        "latitude": 52.5096488,
+        "longitude": 13.3737554
+    },
+    "Reichstag":{
+        "id": 7,
+        "name": "Reichstag",
+        "discription": "Reichstag binas? 1894 y?l?nda in?a edilmi?tir. Dört kö?e kuleile karakterize edilen çarp?c? kubbe, hem binadaki ???k etkisi hem de binan?n genel estetik etkisi nedeniyle teknik bir ba?yap?tt?. Reichstag binas? 1999 y?l?ndan beri Alman Bundestag'?n merkezidir. 1994'ten beri Federal Meclis, Almanya Federal Ba?kan?'n?n seçilmesi için burada toplan?yor.",
+        "latitude": 52.518620,
+        "longitude": 13.3739985
+    },
+    "Flags":{
+        "DE": "https://i.ibb.co/yB2ZgW9/deutschland-1.png",
+        "TR": "https://i.ibb.co/QpG5Drx/iconfinder-263-Ensign-Flag-Nation-turkey-2634440.png",
+        "EN": "https://i.ibb.co/g6c8xqX/iconfinder-United-Kingdom-2361499.png",
+        "HAM_ICON": "https://i.ibb.co/fvr8J92/Unbenannt-1.png"
+    },"BUTTONS":{
+        "ALERT_NOTAVABLIE": "Bu seçenek ?u anda kullan?lam?yor",
+        "GERMAN": "Almanca",
+        "ENGLISH": "Inglizce",
+        "TURKISH": "Türkçe",
+        "SPANISH": "?spanyolca"
+    },
+    "ViewText":{
+        "Navigate": "Haritada göster  ",
+        "ChangeLng": "Dil",
+        "ChooseLng": "Lütfen bir Dil seciniz!",
+        "AboutApp": "BU UYGULAMA NEDEN GELISTIRILDI"
+    }
+
+}
