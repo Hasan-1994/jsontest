@@ -4,7 +4,8 @@
   "attractions": [
     {
       "id": 1,
-      "title": "Alexanderplatz"
+      "title": "Alexanderplatz",
+      "titleBild": "https://i.ibb.co/w7DXFRz/Alexanderplatz-in-Berlin-Panorama.jpg"
     },
     {
       "id": 2,
