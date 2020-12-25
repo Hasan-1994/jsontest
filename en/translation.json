@@ -64,6 +64,8 @@
         "Navigate": "Navigate to  ",
         "ChangeLng": "Language",
         "ChooseLng": "Please select a language!",
+        "InfoPage": "Info!",
+        "About": "About this App",
         "AboutApp": "This application was developed as part of a thesis. It is not intended for commercial purposes!"
     }
 }
